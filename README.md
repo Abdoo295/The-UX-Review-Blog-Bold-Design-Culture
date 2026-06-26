@@ -1,10 +1,10 @@
 # 📝 The UX Review Blog
 A bold and responsive blog template built with **HTML & CSS**, designed to showcase tech, design, and digital culture with a rebellious aesthetic.
 
-🚀 Live Preview  
+**🚀 Live Preview**  
 (Add your live demo link here)
 
-✨ Features  
+**✨ Features**  
 🔥 Bold and striking hero section  
 📱 Fully responsive on all devices  
 🎨 Strong colors, heavy borders, and playful layouts  
@@ -13,17 +13,17 @@ A bold and responsive blog template built with **HTML & CSS**, designed to showc
 🌐 Community section with perks and testimonials  
 📩 Newsletter subscription in the footer  
 
-🛠️ Technologies Used  
+**🛠️ Technologies Used**  
 - HTML5  
 - CSS3  
 - Responsive Design  
 - Flexbox  
 - Media Queries  
 
-🎯 Purpose  
+**🎯 Purpose**  
 This project was created to practice building modern blog layouts with bold UI/UX design, responsive sections, and interactive elements. It serves as a showcase for creative and unconventional design choices.  
 
-💡 What I Learned  
+**💡 What I Learned**  
 - Structuring a blog with semantic HTML  
 - Creating responsive layouts using Flexbox and media queries  
 - Designing bold UI sections with strong visual identity  
