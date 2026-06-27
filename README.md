@@ -1,9 +1,6 @@
 # 📝 The UX Review Blog
 A bold and responsive blog template built with **HTML & CSS**, designed to showcase tech, design, and digital culture with a rebellious aesthetic.
 
-**🚀 Live Preview**  
-(Add your live demo link here)
-
 **✨ Features**  
 🔥 Bold and striking hero section  
 📱 Fully responsive on all devices  
